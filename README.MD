@@ -12,3 +12,4 @@ Estacionamiento FIUNA.
 Componentes.
 - Arduino
 - Sensores de proximidad.
+- Drivers de motores.
